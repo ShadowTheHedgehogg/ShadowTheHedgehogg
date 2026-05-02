@@ -15,20 +15,3 @@
     </td>
   </tr>
 </table>
-
-Web Developer since 2023! I have a passion for code!! 
-- Scripter for Axelands https://polytoria.com/guilds/3568# 
-
-## Focus
-- Gameplay scripting (Lua) on Polytoria
-- Web Development (Astro, Vue)
-
-## Tech
-Languages: Lua, JavaScript, HTML, CSS, Typescript, Markdown
-
-Frameworks: Astro, Vue
-
-"Death to all who oppose me" - Shadow The Hedgehog
-"I am the Ultimate Lifeform" - Shadow The Hedgehog
-
-
