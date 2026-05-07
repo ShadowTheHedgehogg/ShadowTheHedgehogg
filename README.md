@@ -9,7 +9,7 @@
       </a>
     </td>
     <td align="center">
-      <a href="https://www.last.fm/user/mofumofuneko">
+      <a href="https://www.last.fm/user/ultlifeform_">
         <span style="color:#ff0000;"><b>Listen to cool music</b></span>
       </a>
     </td>
